@@ -1,0 +1,20 @@
+﻿dotnet ef migrations add InitialCreate
+
+dotnet ef database update
+
+
+dotnet tool install --global dotnet-ef version 6.0.0
+
+
+dotnet tool install --local dotnet-ef
+
+//
+worked
+dotnet ef migrations add InitialCreate
+
+<config>
+     <!-- Proxy settings -->
+     <add key="http_proxy" value="host" />
+     <add key="http_proxy.user" value="username" />
+     <add key="http_proxy.password" value="encrypted_password" />
+</config>

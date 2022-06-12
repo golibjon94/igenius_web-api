@@ -1,0 +1,22 @@
+base_api : https://speccomapi.igenius.uz/api/v1/
+
+https://speccomapi.igenius.uz/api/v1/lists?type=sips
+
+{{remote}}/complaint/get-status
+
+https://speccomapi.igenius.uz/api/v1/complaint/create
+
+-------------------------
+
+https://speccomapi.igenius.uz/api/v1/lists
+
+?type=sips
+
+GET
+
+--------------------------
+POST
+https://speccomapi.igenius.uz/api/v1/complaints/create
+
+
+

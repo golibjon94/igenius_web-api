@@ -1,0 +1,15 @@
+application_full_name *	string
+form *	int
+tin 	int
+pnfl	int
+phone *	string
+address *	string
+email *	string
+sip_id *	int
+lot_nomer *	int
+indication_id *	int
+complaint_text *	string
+ecp_code *	string
+signing_date *	string
+unique_number *	int
+files	array
